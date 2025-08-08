@@ -8,7 +8,7 @@ La historia de la informática en América Latina refleja los procesos de modern
 
 **Computadoras tempranas:** Las primeras computadores llegaron a América Latina en los años 50, mayoritariamente importadas de Estados Unidos o Europa. En general, fueron instalados en instituciones gubernamentales, universidades o bancos.
 
-- **Argentina:** Instalación de la Clementina en 1961 en el Instituto del Cálculo de la UBA (donada por la Universidad de Cambridge), bajo la dirección de Manuel Sadosky.  
+- **Argentina:** La instalación de la Clementina en 1961 en el Instituto del Cálculo de la UBA (donada por la Universidad de Cambridge), bajo la dirección de Manuel Sadosky.  
   [https://www.educ.ar/recursos/132323/pioneras-informaticas-rioplatenses](https://www.educ.ar/recursos/132323/pioneras-informaticas-rioplatenses)  
   [https://www.horaciocao.com.ar/wp-content/uploads/2015/05/08_Cuarenta_anos_de_informatica_en_el_Estado.pdf](https://www.horaciocao.com.ar/wp-content/uploads/2015/05/08_Cuarenta_anos_de_informatica_en_el_Estado.pdf)
 
