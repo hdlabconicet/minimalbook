@@ -1,5 +1,6 @@
 # Inicio/Home {.unnumbered}
 
-<img src="{{site.baseurl}}/assets/img/HDCAICYTLAB.jpg"/>
+![Logo del HDLab-CONICET](/cover.jpg)
+
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.

@@ -4,39 +4,9 @@
     "href": "index.html",
     "title": "Sustainable and Ethical Technologies for Digitally Engaged Research in the Humanities: A North-South Collaborative Lab",
     "section": "",
-    "text": "Inicio/Home\n\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "text": "Inicio/Home\n\n\n\nLogo del HDLab-CONICET\n\n\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
     "crumbs": [
       "Inicio/Home"
-    ]
-  },
-  {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "2  Introduction",
-    "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee @knuth84 for additional discussion of literate programming.",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
-    ]
-  },
-  {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
-    "section": "",
-    "text": "In summary, this book has no content whatsoever.",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
-    ]
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
-    "crumbs": [
-      "References"
     ]
   },
   {
@@ -57,6 +27,16 @@
     "text": "Content in English.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>English</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
     ]
   }
 ]
