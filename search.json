@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Sustainable and Ethical Technologies for Digitally Engaged Research in the Humanities: A North-South Collaborative Lab",
     "section": "",
-    "text": "Inicio/Home\n\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "text": "Inicio/Home\n\n\n\nLogo del HDLab-CONICET\n\n\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
     "crumbs": [
       "Inicio/Home"
     ]
@@ -14,7 +14,137 @@
     "href": "espanol.html",
     "title": "1  Español",
     "section": "",
-    "text": "Contenido en español.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "2 Uno de los mayores problemas para el desarrollo de un proyecto de Humanidades es el de la sostenibilidad.\nLa historia de la informática en América Latina refleja los procesos de modernización, dependencia tecnológica, y creatividad local en la adopción y desarrollo de las tecnologías digitales.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Español</span>"
+    ]
+  },
+  {
+    "objectID": "espanol.html#primeras-incursiones-1950-1960",
+    "href": "espanol.html#primeras-incursiones-1950-1960",
+    "title": "1  Español",
+    "section": "2.1 1. Primeras incursiones (1950-1960)",
+    "text": "2.1 1. Primeras incursiones (1950-1960)\nComputadoras tempranas: Las primeras computadores llegaron a América Latina en los años 50, mayoritariamente importadas de Estados Unidos o Europa. En general, fueron instalados en instituciones gubernamentales, universidades o bancos.\n\nArgentina: Instalación de la Clementina en 1961 en el Instituto del Cálculo de la UBA (donada por la Universidad de Cambridge), bajo la dirección de Manuel Sadosky.\nhttps://www.educ.ar/recursos/132323/pioneras-informaticas-rioplatenses\nhttps://www.horaciocao.com.ar/wp-content/uploads/2015/05/08_Cuarenta_anos_de_informatica_en_el_Estado.pdf\nBrasil: Fundación del Centro de Procesamiento de Datos de la Universidad de São Paulo. IBM tuvo gran presencia.\nMéxico: Instalación de una UNIVAC en la UNAM en 1958.\n\nEducación y matemática aplicada: Durante esta época se desarrollaron programas formativos en matemáticas, estadística y cálculo numérico, precursores de la computación científica.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Español</span>"
+    ]
+  },
+  {
+    "objectID": "espanol.html#desarrollo-incipiente-y-apropiación-1970-1980",
+    "href": "espanol.html#desarrollo-incipiente-y-apropiación-1970-1980",
+    "title": "1  Español",
+    "section": "2.2 🏗️ 2. Desarrollo incipiente y apropiación (1970-1980)",
+    "text": "2.2 🏗️ 2. Desarrollo incipiente y apropiación (1970-1980)\nSurgimiento de la industria local: Algunos países comenzaron a fabricar computadoras o desarrollar software nacional.\n\nBrasil: Política de “reserva de mercado” que promovió la creación de empresas locales (Cobra Computadores).\nCuba: Desarrollo de sistemas propios como parte de su política de autosuficiencia tecnológica.\nChile: Proyecto Cybersyn (gobierno de Salvador Allende, con Stafford Beer), pionero en planificación económica asistida por computadoras.\n\nEducación universitaria: Creación de carreras de computación e informática en universidades públicas.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Español</span>"
+    ]
+  },
+  {
+    "objectID": "espanol.html#globalización-neoliberalismo-y-expansión-1990-2000",
+    "href": "espanol.html#globalización-neoliberalismo-y-expansión-1990-2000",
+    "title": "1  Español",
+    "section": "2.3 💻 3. Globalización, neoliberalismo y expansión (1990-2000)",
+    "text": "2.3 💻 3. Globalización, neoliberalismo y expansión (1990-2000)\n\nApertura de mercados: Entrada masiva de tecnologías extranjeras (Microsoft, Oracle, IBM).\nSoftware libre: Movimientos de adopción en el Cono Sur (Brasil, Venezuela).\nBrecha digital: Mayor visibilidad de desigualdades urbano/rurales y sociales.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Español</span>"
+    ]
+  },
+  {
+    "objectID": "espanol.html#internet-y-digitalización-2000-presente",
+    "href": "espanol.html#internet-y-digitalización-2000-presente",
+    "title": "1  Español",
+    "section": "2.4 🌐 4. Internet y digitalización (2000-presente)",
+    "text": "2.4 🌐 4. Internet y digitalización (2000-presente)\n\nAcceso masivo a Internet y redes móviles.\nPolíticas TIC: Ej. Conectar Igualdad (Argentina), Plan Ceibal (Uruguay).\nEconomía digital: Startups en software, fintech, IA y biotecnología.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Español</span>"
+    ]
+  },
+  {
+    "objectID": "espanol.html#temas-emergentes-y-desafíos-actuales",
+    "href": "espanol.html#temas-emergentes-y-desafíos-actuales",
+    "title": "1  Español",
+    "section": "2.5 🧠 Temas emergentes y desafíos actuales",
+    "text": "2.5 🧠 Temas emergentes y desafíos actuales\n\nSoberanía tecnológica\n\nEducación e inclusión digital\n\nHumanidades digitales y ciencia abierta (ej. LA Referencia, RedHD, Asociación Argentina de Humanidades Digitales)",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Español</span>"
+    ]
+  },
+  {
+    "objectID": "espanol.html#qué-es-el-software-libre-y-por-qué-se-impulsó",
+    "href": "espanol.html#qué-es-el-software-libre-y-por-qué-se-impulsó",
+    "title": "1  Español",
+    "section": "2.6 🧭 ¿Qué es el software libre y por qué se impulsó?",
+    "text": "2.6 🧭 ¿Qué es el software libre y por qué se impulsó?\nEl software libre permite usar, estudiar, modificar y distribuir libremente el software. Ideal para:\n\nReducir costos en gobiernos y universidades.\nEvitar dependencia tecnológica.\nFomentar desarrollo local.\nFavorecer transparencia pública.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Español</span>"
+    ]
+  },
+  {
+    "objectID": "espanol.html#momentos-clave-y-casos-por-país",
+    "href": "espanol.html#momentos-clave-y-casos-por-país",
+    "title": "1  Español",
+    "section": "2.7 📌 Momentos clave y casos por país",
+    "text": "2.7 📌 Momentos clave y casos por país\n\n2.7.1 🇧🇷 Brasil – El caso más emblemático\n2003-2010: Políticas nacionales de migración a software libre (ej. Serpro).\nFórums Internacionales de Software Livre (FISL).\n\n\n2.7.2 🇻🇪 Venezuela – Soberanía y ley de software libre\n2004: Decreto 3.390 ordena migración del Estado.\nDistribución Canaima Linux para educación.\n\n\n2.7.3 🇦🇷 Argentina – Adopción fragmentaria\nIniciativas en educación, municipios y agencias del Estado.\nEj.: Gleducar (2002), Conectar Igualdad (Huayra GNU/Linux).\n\n\n2.7.4 🇺🇾 Uruguay – Plan Ceibal y código abierto\n2007: Plan Ceibal con laptops y software libre.\n2013: Ley de Software Libre en el Estado.\n\n\n2.7.5 🇨🇱 Chile – Comunidad activa, menos respaldo estatal\nGrupos como GNU Chile; migraciones parciales en ministerios y municipios.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Español</span>"
+    ]
+  },
+  {
+    "objectID": "espanol.html#bibliografía-académica-sobre-software-libre-en-américa-del-sur",
+    "href": "espanol.html#bibliografía-académica-sobre-software-libre-en-américa-del-sur",
+    "title": "1  Español",
+    "section": "2.8 📚 Bibliografía académica sobre software libre en América del Sur",
+    "text": "2.8 📚 Bibliografía académica sobre software libre en América del Sur\n\nDrahos, Peter; Braithwaite, John. Information Feudalism – [ISBN 9781565848043]\nBecker, Pablo; García, Julián (2014). Software libre, políticas públicas y Estado: apuntes sobre el caso argentino. https://rts.unq.edu.ar/article/view/203\nAlmeida, Sérgio Amadeu da Silveira (2004). Software livre e inclusão digital. https://cienciaecultura.bvs.br/pdf/cic/v56n4/a13v56n4.pdf\nPeirano, Fernando (2009). Software libre en América Latina. https://repositorio.cepal.org/handle/11362/3776\nMarino, Marcela; Rubione, Florencia (2011). Educación y Software Libre: la experiencia de Gleducar. http://www.gleducar.org.ar/node/561\nVillanueva Núñez, Edgar David (2002). Carta abierta a Microsoft. https://www.gnu.org/philosophy/villanueva-response.es.html\nSaldías, Carlos; Astudillo, Javier (2007). Software libre en Chile: perspectivas y desafíos.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Español</span>"
+    ]
+  },
+  {
+    "objectID": "espanol.html#epistemologías-del-sur-y-pensamiento-decolonial",
+    "href": "espanol.html#epistemologías-del-sur-y-pensamiento-decolonial",
+    "title": "1  Español",
+    "section": "2.9 🌍 Epistemologías del Sur y pensamiento decolonial",
+    "text": "2.9 🌍 Epistemologías del Sur y pensamiento decolonial\n\nRita Segato: La guerra contra las mujeres (2016)\n\nMaría Lugones: Hacia un feminismo descolonial (2008)\n\nLorena Cabnal: Feminismo comunitario territorial\n\nKarina Bidaseca: Epistemologías del sur, afrofeminismo\n\nConceptos clave: colonialidad del saber, locus de enunciación, pensamiento fronterizo, epistemología insurgente, ecología de saberes.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Español</span>"
+    ]
+  },
+  {
+    "objectID": "espanol.html#saberes-indígenas-campesinos-y-afrodescendientes",
+    "href": "espanol.html#saberes-indígenas-campesinos-y-afrodescendientes",
+    "title": "1  Español",
+    "section": "2.10 🌱 Saberes indígenas, campesinos y afrodescendientes",
+    "text": "2.10 🌱 Saberes indígenas, campesinos y afrodescendientes\nMuchos pensadores y pensadoras desde movimientos sociales, territorios y pueblos originarios han producido formas de conocimiento situado que no siempre se inscriben en la academia.\nEjemplos:\n\nAlicia Cawiya (Ecuador, pueblo Achuar): defensora del conocimiento ancestral como base política y ecológica.\nSilvia Rivera Cusicanqui (Bolivia): crítica decolonial del marxismo y la modernidad, con fuerte defensa del pensamiento ch’ixi (dualidad no reconciliada).\nEj.: Un mundo ch’ixi es posible (2018).\nFrantz Fanon (influencia desde el Caribe): aunque no latinoamericano, influyó en la conceptualización situada del conocimiento en contextos coloniales.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Español</span>"
+    ]
+  },
+  {
+    "objectID": "espanol.html#principales-conceptos",
+    "href": "espanol.html#principales-conceptos",
+    "title": "1  Español",
+    "section": "2.11 📌 Principales conceptos",
+    "text": "2.11 📌 Principales conceptos\n\nColonialidad del saber (Quijano)\nLocus de enunciación (Mignolo)\nPensamiento fronterizo\nEpistemología insurgente / comunitaria / popular\nConocimiento encarnado y territorializado\nEcología de saberes (Santos)\nSaberes no hegemónicos / subalternos",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Español</span>"
+    ]
+  },
+  {
+    "objectID": "espanol.html#línea-de-tiempo-software-libre-en-américa-del-sur",
+    "href": "espanol.html#línea-de-tiempo-software-libre-en-américa-del-sur",
+    "title": "1  Español",
+    "section": "2.12 📅 Línea de tiempo – Software libre en América del Sur",
+    "text": "2.12 📅 Línea de tiempo – Software libre en América del Sur\n1990s\n💻 Chile, Argentina, Brasil: Surgen las primeras comunidades de usuarios de GNU/Linux y grupos de software libre.\n📚 Creación de LUGs (Linux User Groups) en universidades y foros técnicos.\n2000-2004\n🇵🇪 2002: Proyecto de Ley en Perú sobre software libre en el Estado (Villanueva vs. Microsoft).\n🇧🇷 2003: Gobierno de Lula promueve migración masiva a software libre en agencias estatales.\n🇻🇪 2004: Decreto 3.390 en Venezuela obliga al Estado a migrar a software libre.\n🇦🇷 2002: Nace Gleducar, proyecto educativo con software libre.\n2005-2010\n🇺🇾 2007: Plan Ceibal distribuye laptops con software libre en educación primaria.\n🇧🇷 Políticas nacionales de migración (Serpro, Caixa, Receita Federal).\n🇻🇪 Desarrollo de Canaima GNU/Linux.\n🇦🇷 Municipios (Morón, Rosario) adoptan software libre.\n🌎 Expansión del Foro Internacional de Software Libre (FISL).\n2010-2015\n🇺🇾 2013: Ley de Software Libre en el Estado uruguayo.\n🇦🇷 Se lanza Huayra GNU/Linux como sistema operativo educativo.\n🇪🇨 Ecuador promueve el software libre en la administración pública.\n🇻🇪 Canaima instalado en más de 2 millones de equipos.\n2015-presente\n🌐 Comunidad activa pero con menor impulso estatal.\n🤖 Uso de software libre para IA, big data y educación.\n👥 Vinculación con soberanía digital y datos abiertos.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Español</span>"
+    ]
+  },
+  {
+    "objectID": "espanol.html#reflexión-final",
+    "href": "espanol.html#reflexión-final",
+    "title": "1  Español",
+    "section": "2.13 🧠 Reflexión final",
+    "text": "2.13 🧠 Reflexión final\nLa adopción del software libre en América del Sur fue un fenómeno tanto tecnológico como político y cultural. En algunos países, como Brasil, Venezuela o Uruguay, el Estado tuvo un rol central, mientras que en otros el impulso vino de la sociedad civil y las comunidades técnicas.\nEn paralelo, los debates sobre epistemologías del sur y conocimiento situado dialogan con la historia de la tecnología en la región, subrayando la necesidad de soberanía tecnológica, inclusión digital y reapropiación crítica de las herramientas para contextos locales.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Español</span>"
     ]
