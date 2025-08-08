@@ -1,6 +1,6 @@
-# Español
+# Contenido en Español
 
-# Uno de los mayores problemas para el desarrollo de un proyecto de Humanidades es el de la sostenibilidad.
+Uno de los mayores problemas para el desarrollo de un proyecto de Humanidades es el de la sostenibilidad.
 
 La historia de la informática en América Latina refleja los procesos de modernización, dependencia tecnológica, y creatividad local en la adopción y desarrollo de las tecnologías digitales. 
 
