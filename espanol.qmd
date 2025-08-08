@@ -1,5 +1,179 @@
 # Español
 
-Contenido en español.
+# Uno de los mayores problemas para el desarrollo de un proyecto de Humanidades es el de la sostenibilidad.
+
+La historia de la informática en América Latina refleja los procesos de modernización, dependencia tecnológica, y creatividad local en la adopción y desarrollo de las tecnologías digitales. 
+
+## 1. Primeras incursiones (1950-1960)
+
+**Computadoras tempranas:** Las primeras computadores llegaron a América Latina en los años 50, mayoritariamente importadas de Estados Unidos o Europa. En general, fueron instalados en instituciones gubernamentales, universidades o bancos.
+
+- **Argentina:** Instalación de la Clementina en 1961 en el Instituto del Cálculo de la UBA (donada por la Universidad de Cambridge), bajo la dirección de Manuel Sadosky.  
+  [https://www.educ.ar/recursos/132323/pioneras-informaticas-rioplatenses](https://www.educ.ar/recursos/132323/pioneras-informaticas-rioplatenses)  
+  [https://www.horaciocao.com.ar/wp-content/uploads/2015/05/08_Cuarenta_anos_de_informatica_en_el_Estado.pdf](https://www.horaciocao.com.ar/wp-content/uploads/2015/05/08_Cuarenta_anos_de_informatica_en_el_Estado.pdf)
+
+- **Brasil:** Fundación del Centro de Procesamiento de Datos de la Universidad de São Paulo. IBM tuvo gran presencia.
+- **México:** Instalación de una UNIVAC en la UNAM en 1958.
+
+**Educación y matemática aplicada:** Durante esta época se desarrollaron programas formativos en matemáticas, estadística y cálculo numérico, precursores de la computación científica.
+
+---
+
+## 🏗️ 2. Desarrollo incipiente y apropiación (1970-1980)
+
+**Surgimiento de la industria local:** Algunos países comenzaron a fabricar computadoras o desarrollar software nacional.
+
+- **Brasil:** Política de "reserva de mercado" que promovió la creación de empresas locales (Cobra Computadores).
+- **Cuba:** Desarrollo de sistemas propios como parte de su política de autosuficiencia tecnológica.
+- **Chile:** Proyecto Cybersyn (gobierno de Salvador Allende, con Stafford Beer), pionero en planificación económica asistida por computadoras.
+
+**Educación universitaria:** Creación de carreras de computación e informática en universidades públicas.
+
+---
+
+## 💻 3. Globalización, neoliberalismo y expansión (1990-2000)
+
+- **Apertura de mercados:** Entrada masiva de tecnologías extranjeras (Microsoft, Oracle, IBM).
+- **Software libre:** Movimientos de adopción en el Cono Sur (Brasil, Venezuela).
+- **Brecha digital:** Mayor visibilidad de desigualdades urbano/rurales y sociales.
+
+---
+
+## 🌐 4. Internet y digitalización (2000-presente)
+
+- **Acceso masivo a Internet** y redes móviles.
+- **Políticas TIC:** Ej. Conectar Igualdad (Argentina), Plan Ceibal (Uruguay).
+- **Economía digital:** Startups en software, fintech, IA y biotecnología.
+
+---
+
+## 🧠 Temas emergentes y desafíos actuales
+
+- **Soberanía tecnológica**  
+- **Educación e inclusión digital**  
+- **Humanidades digitales y ciencia abierta** (ej. LA Referencia, RedHD, Asociación Argentina de Humanidades Digitales)
+
+---
+
+## 🧭 ¿Qué es el software libre y por qué se impulsó?
+
+El software libre permite usar, estudiar, modificar y distribuir libremente el software. Ideal para:
+
+- Reducir costos en gobiernos y universidades.
+- Evitar dependencia tecnológica.
+- Fomentar desarrollo local.
+- Favorecer transparencia pública.
+
+---
+
+## 📌 Momentos clave y casos por país
+
+### 🇧🇷 Brasil – El caso más emblemático
+2003-2010: Políticas nacionales de migración a software libre (ej. Serpro).  
+Fórums Internacionales de Software Livre (FISL).
+
+### 🇻🇪 Venezuela – Soberanía y ley de software libre
+2004: Decreto 3.390 ordena migración del Estado.  
+Distribución Canaima Linux para educación.
+
+### 🇦🇷 Argentina – Adopción fragmentaria
+Iniciativas en educación, municipios y agencias del Estado.  
+Ej.: Gleducar (2002), Conectar Igualdad (Huayra GNU/Linux).
+
+### 🇺🇾 Uruguay – Plan Ceibal y código abierto
+2007: Plan Ceibal con laptops y software libre.  
+2013: Ley de Software Libre en el Estado.
+
+### 🇨🇱 Chile – Comunidad activa, menos respaldo estatal
+Grupos como GNU Chile; migraciones parciales en ministerios y municipios.
+
+---
+
+## 📚 Bibliografía académica sobre software libre en América del Sur
+
+- Drahos, Peter; Braithwaite, John. *Information Feudalism* – [ISBN 9781565848043]
+- Becker, Pablo; García, Julián (2014). *Software libre, políticas públicas y Estado: apuntes sobre el caso argentino.* [https://rts.unq.edu.ar/article/view/203](https://rts.unq.edu.ar/article/view/203)
+- Almeida, Sérgio Amadeu da Silveira (2004). *Software livre e inclusão digital.* [https://cienciaecultura.bvs.br/pdf/cic/v56n4/a13v56n4.pdf](https://cienciaecultura.bvs.br/pdf/cic/v56n4/a13v56n4.pdf)
+- Peirano, Fernando (2009). *Software libre en América Latina.* [https://repositorio.cepal.org/handle/11362/3776](https://repositorio.cepal.org/handle/11362/3776)
+- Marino, Marcela; Rubione, Florencia (2011). *Educación y Software Libre: la experiencia de Gleducar.* [http://www.gleducar.org.ar/node/561](http://www.gleducar.org.ar/node/561)
+- Villanueva Núñez, Edgar David (2002). *Carta abierta a Microsoft.* [https://www.gnu.org/philosophy/villanueva-response.es.html](https://www.gnu.org/philosophy/villanueva-response.es.html)
+- Saldías, Carlos; Astudillo, Javier (2007). *Software libre en Chile: perspectivas y desafíos.*
+
+---
+
+## 🌍 Epistemologías del Sur y pensamiento decolonial
+
+- **Rita Segato:** *La guerra contra las mujeres* (2016)  
+- **María Lugones:** *Hacia un feminismo descolonial* (2008)  
+- **Lorena Cabnal:** Feminismo comunitario territorial  
+- **Karina Bidaseca:** Epistemologías del sur, afrofeminismo
+
+**Conceptos clave:** colonialidad del saber, locus de enunciación, pensamiento fronterizo, epistemología insurgente, ecología de saberes.
+
+---
+
+## 🌱 Saberes indígenas, campesinos y afrodescendientes
+
+Muchos pensadores y pensadoras desde movimientos sociales, territorios y pueblos originarios han producido formas de conocimiento situado que no siempre se inscriben en la academia.
+
+**Ejemplos:**
+
+- **Alicia Cawiya** (Ecuador, pueblo Achuar): defensora del conocimiento ancestral como base política y ecológica.
+- **Silvia Rivera Cusicanqui** (Bolivia): crítica decolonial del marxismo y la modernidad, con fuerte defensa del pensamiento *ch’ixi* (dualidad no reconciliada).  
+  Ej.: *Un mundo ch’ixi es posible* (2018).
+- **Frantz Fanon** (influencia desde el Caribe): aunque no latinoamericano, influyó en la conceptualización situada del conocimiento en contextos coloniales.
+
+---
+
+## 📌 Principales conceptos
+
+- **Colonialidad del saber** (Quijano)
+- **Locus de enunciación** (Mignolo)
+- **Pensamiento fronterizo**
+- **Epistemología insurgente / comunitaria / popular**
+- **Conocimiento encarnado y territorializado**
+- **Ecología de saberes** (Santos)
+- **Saberes no hegemónicos / subalternos**
+
+---
+
+## 📅 Línea de tiempo – Software libre en América del Sur
+
+**1990s**  
+💻 Chile, Argentina, Brasil: Surgen las primeras comunidades de usuarios de GNU/Linux y grupos de software libre.  
+📚 Creación de LUGs (Linux User Groups) en universidades y foros técnicos.
+
+**2000-2004**  
+🇵🇪 2002: Proyecto de Ley en Perú sobre software libre en el Estado (Villanueva vs. Microsoft).  
+🇧🇷 2003: Gobierno de Lula promueve migración masiva a software libre en agencias estatales.  
+🇻🇪 2004: Decreto 3.390 en Venezuela obliga al Estado a migrar a software libre.  
+🇦🇷 2002: Nace Gleducar, proyecto educativo con software libre.
+
+**2005-2010**  
+🇺🇾 2007: Plan Ceibal distribuye laptops con software libre en educación primaria.  
+🇧🇷 Políticas nacionales de migración (Serpro, Caixa, Receita Federal).  
+🇻🇪 Desarrollo de Canaima GNU/Linux.  
+🇦🇷 Municipios (Morón, Rosario) adoptan software libre.  
+🌎 Expansión del Foro Internacional de Software Libre (FISL).
+
+**2010-2015**  
+🇺🇾 2013: Ley de Software Libre en el Estado uruguayo.  
+🇦🇷 Se lanza Huayra GNU/Linux como sistema operativo educativo.  
+🇪🇨 Ecuador promueve el software libre en la administración pública.  
+🇻🇪 Canaima instalado en más de 2 millones de equipos.
+
+**2015-presente**  
+🌐 Comunidad activa pero con menor impulso estatal.  
+🤖 Uso de software libre para IA, big data y educación.  
+👥 Vinculación con soberanía digital y datos abiertos.
+
+---
+
+## 🧠 Reflexión final
+
+La adopción del software libre en América del Sur fue un fenómeno tanto tecnológico como político y cultural. En algunos países, como Brasil, Venezuela o Uruguay, el Estado tuvo un rol central, mientras que en otros el impulso vino de la sociedad civil y las comunidades técnicas.  
+En paralelo, los debates sobre **epistemologías del sur** y **conocimiento situado** dialogan con la historia de la tecnología en la región, subrayando la necesidad de **soberanía tecnológica**, **inclusión digital** y **reapropiación crítica de las herramientas** para contextos locales.
+
+
 
 See @knuth84 for additional discussion of literate programming.
