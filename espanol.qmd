@@ -4,7 +4,7 @@ Uno de los mayores problemas para el desarrollo de un proyecto de Humanidades es
 
 La historia de la informática en América Latina refleja los procesos de modernización, dependencia tecnológica, y creatividad local en la adopción y desarrollo de las tecnologías digitales. 
 
-## 1. Primeras incursiones (1950-1960)
+## Primeras incursiones (1950-1960)
 
 **Computadoras tempranas:** Las primeras computadores llegaron a América Latina en los años 50, mayoritariamente importadas de Estados Unidos o Europa. En general, fueron instalados en instituciones gubernamentales, universidades o bancos.
 
@@ -19,7 +19,7 @@ La historia de la informática en América Latina refleja los procesos de modern
 
 ---
 
-## 🏗️ 2. Desarrollo incipiente y apropiación (1970-1980)
+## 🏗️ Desarrollo incipiente y apropiación (1970-1980)
 
 **Surgimiento de la industria local:** Algunos países comenzaron a fabricar computadoras o desarrollar software nacional.
 
@@ -31,7 +31,7 @@ La historia de la informática en América Latina refleja los procesos de modern
 
 ---
 
-## 💻 3. Globalización, neoliberalismo y expansión (1990-2000)
+## 💻 Globalización, neoliberalismo y expansión (1990-2000)
 
 - **Apertura de mercados:** Entrada masiva de tecnologías extranjeras (Microsoft, Oracle, IBM).
 - **Software libre:** Movimientos de adopción en el Cono Sur (Brasil, Venezuela).
@@ -39,7 +39,7 @@ La historia de la informática en América Latina refleja los procesos de modern
 
 ---
 
-## 🌐 4. Internet y digitalización (2000-presente)
+## 🌐 Internet y digitalización (2000-presente)
 
 - **Acceso masivo a Internet** y redes móviles.
 - **Políticas TIC:** Ej. Conectar Igualdad (Argentina), Plan Ceibal (Uruguay).
