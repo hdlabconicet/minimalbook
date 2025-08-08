@@ -1,0 +1,26 @@
+project:
+  type: book
+
+book:
+  title: "Sustainable and Ethical Technologies for Digitally Engaged Research in the Humanities: A North-South Collaborative Lab"
+  author: "HDLab CONICET"
+  date: "8/8/2025"
+  cover-image: cover.jpg
+  chapters:
+    - index.qmd
+    - espanol.qmd
+    - english.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+
