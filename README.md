@@ -1,0 +1,1 @@
+Libro mínimo para el proyecto **Sustainable and Ethical Technologies for Digitally Engaged Research in the Humanities: A North-South Collaborative Lab**, financiado por la Society for Latin American Studies (SLAS).
