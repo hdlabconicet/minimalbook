@@ -1,6 +1,9 @@
-# Inicio/Home {.unnumbered}
+# Project/Proyecto {.unnumbered}
+How can a Digital Humanities (DH) project be ethical, inclusive and (technologically and ecologically) sustainable from the start? The open software and hardware movement has been seeking to expand global access to digital tools by reducing cost, logistics, and knowledge barriers. Their principles, extended beyond computing done under constraints, could form the  foundation of a global digitally-engaged humanities commons. Likewise, the ‘minimal computing’ movement has developed principles to facilitate digitally engaged projects that use minimal infrastructure to run complex humanities projects. 
 
-![Logo del HDLab-CONICET](/cover.jpg)
+Could their shared principles and technologies empower students and scholars to work more ethically  and sustainably? 
+
+![Logo del HD LAB-CONICET](/cover.jpg)
 
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
