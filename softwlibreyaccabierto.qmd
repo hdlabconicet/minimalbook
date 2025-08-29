@@ -1,0 +1,316 @@
+# Software libre y conocimiento situado en América Latina
+
+## Historia del desarrollo digital en América Latina
+
+### **Primeras incursiones (1950-1960)**
+
+Las primeras incursiones en tecnología digital en América Latina, durante las décadas de 1950 y 1960, marcaron el inicio de un proceso gradual de modernización tecnológica en la región. En este período, universidades, centros de investigación y algunas instituciones gubernamentales comenzaron a adquirir y experimentar con las primeras computadoras electrónicas, principalmente importadas de Estados Unidos y Europa. Estas máquinas, de gran tamaño y alto costo, estaban destinadas sobre todo a tareas de cálculo científico, estadístico y administrativo, y su operación requería personal altamente especializado. A pesar de las limitaciones de infraestructura y recursos, estas experiencias iniciales sentaron las bases para la formación de capital humano y la creación de redes académicas que, con el tiempo, impulsarían el desarrollo de la informática y la digitalización en distintos países latinoamericanos.
+
+* **Computadoras tempranas:** Las primeras computadores llegaron a América Latina en los años 50, mayoritariamente importados de Estados Unidos o Europa. En general, fueron instalados en instituciones gubernamentales, universidades o bancos.
+
+  * **Argentina:** Instalación de la *Clementina* en 1961 en el Instituto del Cálculo de la UBA (donada por la Universidad de Cambridge), bajo la dirección de Manuel Sadosky.
+
+  * **Brasil:** Fundación del Centro de Procesamiento de Datos de la Universidad de São Paulo. IBM tuvo gran presencia.
+
+  * **México:** Instalación de una UNIVAC en la UNAM en 1958.
+
+  ---
+
+
+### **🏗️ Desarrollo incipiente y apropiación (1970-1980)**
+
+Durante las décadas de 1970 y 1980, el desarrollo de la tecnología digital en América Latina comenzó a consolidarse de manera más sostenida, marcando un proceso de apropiación local de herramientas y conocimientos importados. En este período, algunas universidades y centros de investigación no solo utilizaban computadoras, sino que empezaron a formar programas académicos de computación, capacitar personal técnico propio y adaptarse a las necesidades específicas de la región. Paralelamente, ciertos gobiernos implementaron políticas orientadas a la modernización tecnológica, promoviendo la adquisición de equipos y la creación de laboratorios de investigación aplicada. Aunque los recursos seguían siendo limitados y la dependencia de proveedores externos persistía, estas décadas fueron decisivas para el establecimiento de capacidades técnicas locales, la consolidación de comunidades profesionales y la experimentación con aplicaciones propias en áreas como administración pública, industria y ciencia.
+
+* **Surgimiento de la industria local:** Algunos países comenzaron a fabricar computadoras o desarrollar software nacional.
+
+  * **Brasil** desarrolló una política de "reserva de mercado" que promovió la creación de empresas locales (como Cobra Computadores).
+
+  * **Cuba** desarrolló sus propios sistemas como parte de su política de autosuficiencia tecnológica.
+
+  * **Chile:** Durante el gobierno de Salvador Allende, el **Proyecto Cybersyn** (con participación de Stafford Beer) fue un experimento pionero en planificación económica asistida por computadoras.
+
+  * **Educación universitaria:** Se fundaron carreras de computación e informática en muchas universidades públicas, lo cual democratizó lentamente el acceso al conocimiento.
+
+---
+
+### **💻 Globalización, neoliberalismo y expansión (1990-2000)**
+
+En las décadas de 1990 y 2000, la tecnología digital en América Latina se vio profundamente influida por los procesos de globalización y las políticas neoliberales que promovían la apertura de mercados, la inversión extranjera y la privatización de sectores estratégicos. Durante este período, la región experimentó una expansión significativa en el acceso a computadoras, redes de telecomunicaciones e Internet, lo que permitió la integración a flujos globales de información y conocimiento. Universidades, empresas privadas y organismos estatales incrementaron su participación en proyectos tecnológicos, muchas veces siguiendo modelos importados de los países desarrollados. Si bien estas transformaciones ampliaron las posibilidades de innovación y conectividad, también profundizaron desigualdades en el acceso y la apropiación de la tecnología, consolidando brechas entre países, regiones y sectores sociales. Este contexto de expansión tecnológica estuvo marcado, además, por la influencia creciente de corporaciones multinacionales y la incorporación de América Latina en cadenas globales de producción y servicios digitales.
+
+* **Apertura de mercados:** Las reformas neoliberales de los años 90 facilitaron la entrada masiva de tecnologías extranjeras (Microsoft, Oracle, IBM, etc.), lo que produjo una reconfiguración del mercado local.
+
+* **Software libre:** En algunos países, sobre todo en el cono sur, comenzaron movimientos de adopción de software libre por parte del Estado (por ejemplo, en Brasil y Venezuela).
+
+* **Brecha digital:** Se empezó a visibilizar con mayor claridad la **brecha digital** tanto entre países como entre sectores urbanos/rurales o clases sociales.
+
+---
+
+### **🌐 Internet y digitalización (2000-presente)**
+
+Desde principios de la década de 2000 hasta la actualidad, la penetración de Internet y la digitalización han transformado de manera profunda el paisaje tecnológico en América Latina. El acceso masivo a redes digitales, dispositivos móviles y plataformas en línea ha ampliado significativamente la disponibilidad de información, servicios y oportunidades de comunicación. Universidades, empresas, gobiernos y organizaciones de la sociedad civil han incorporado la tecnología digital en educación, investigación, administración pública y emprendimientos, impulsando nuevos modelos de producción, participación ciudadana y colaboración transnacional. Al mismo tiempo, la expansión de la digitalización ha evidenciado desafíos persistentes, como la brecha digital, la desigualdad en conectividad y la concentración de poder en plataformas globales. A pesar de estas tensiones, la región ha desarrollado experiencias innovadoras en software libre, alfabetización digital, proyectos de datos abiertos y redes de conocimiento colaborativo, consolidando un ecosistema tecnológico cada vez más diverso y situado en un diálogo activo con las dinámicas globales.
+
+* **Acceso masivo a Internet:** A comienzos del siglo XXI se expandió el acceso a la web y a las redes móviles. Esto cambió radicalmente el uso cotidiano de la informática.
+
+* **Políticas públicas TIC:** Muchos gobiernos impulsaron políticas de inclusión digital, alfabetización tecnológica y desarrollo de contenidos digitales educativos (ej.: Conectar Igualdad en Argentina, Plan Ceibal en Uruguay).
+
+* **Economía digital y startups:** En la última década, países como Argentina, Colombia, Chile, Brasil y México han generado ecosistemas de innovación y desarrollo tecnológico, con startups en áreas de software, fintech, IA y biotecnología.
+
+---
+
+### **🧠 Temas emergentes y desafíos actuales**
+
+En la actualidad, la digitalización en América Latina enfrenta una serie de temas emergentes y desafíos estratégicos. La **soberanía tecnológica** se ha convertido en un eje central de discusión, ya que muchos países buscan reducir su dependencia de tecnologías extranjeras, particularmente ante la expansión de la inteligencia artificial y los sistemas de vigilancia. La **educación y la inclusión digital** siguen siendo retos fundamentales: la brecha digital persiste, y la pandemia de COVID-19 puso de relieve las desigualdades en infraestructura, conectividad y acceso a recursos tecnológicos. Al mismo tiempo, la región ha mostrado avances importantes en la **ciencia abierta y las humanidades digitales**, consolidando redes colaborativas como LA Referencia, RedHD y la Asociación Argentina de Humanidades Digitales, que promueven la circulación de conocimiento accesible y la producción académica desde perspectivas locales y transnacionales. Estos desarrollos subrayan que la transformación digital en América Latina no es solo un proceso tecnológico, sino también social, cultural y político, que exige políticas inclusivas, fortalecimiento del capital humano y estrategias de cooperación regional para garantizar un desarrollo equitativo y contextualizado.
+
+* **Soberanía tecnológica:** Muchos países están repensando su dependencia de tecnologías extranjeras, especialmente con la expansión de la inteligencia artificial y los sistemas de vigilancia.
+
+* **Educación e inclusión digital:** La brecha digital sigue siendo un problema, y la pandemia del COVID-19 evidenció las desigualdades en infraestructura y acceso.
+
+* **Humanidades digitales y ciencia abierta:** América Latina ha desarrollado redes muy activas en ciencia abierta (como **LA Referencia**) y en humanidades digitales (RedHD, Asociación Argentina de Humanidades Digitales, etc.).
+
+---
+
+## **🧭 ¿Qué es el software libre y por qué se impulsó?**
+
+El movimiento de **software libre** y de **código abierto** (FOSS, por sus siglas en inglés) busca expandir el acceso global a herramientas digitales al reducir las barreras de costo, logística y conocimiento, y está alineado con el movimiento de ciencia abierta (Opensciency contributors, 2023). Ambos comparten un fuerte sentido de propiedad común orientada al bien común.
+
+La adopción del software libre en América del Sur fue un proceso profundamente político, técnico y cultural, que se dio con fuerza entre finales de los años 1990 y mediados de los 2000\. En muchos casos, estuvo asociado con movimientos por la **soberanía tecnológica**, el fortalecimiento del Estado, y la **independencia de corporaciones extranjeras** como Microsoft, IBM u Oracle. A continuación, veremos algunos casos emblemáticos:
+
+El **software libre** permite a los usuarios usar, estudiar, modificar y distribuir libremente el software. Esto lo vuelve ideal para:
+
+* **Reducir costos** en gobiernos y universidades.
+
+* **Evitar la dependencia tecnológica** de multinacionales.
+
+* **Fomentar el desarrollo local de capacidades** tecnológicas.
+
+* **Favorecer la transparencia** en la administración pública.
+
+---
+
+## **📌 Momentos clave y casos por país**
+
+### **🇧🇷 Brasil – El caso más emblemático**
+
+* **2003-2010**: Durante el gobierno de **Luiz Inácio Lula da Silva**, Brasil se convirtió en un referente mundial del software libre.
+
+* El **Ministerio de Planeamiento** estableció políticas para migrar sistemas del Estado a software libre, y se promovió la creación de una comunidad de desarrolladores.
+
+* Proyecto destacado:
+
+  * **Serpro (Servicio Federal de Procesamiento de Datos)** migró muchas plataformas a GNU/Linux.
+
+  * Se promovió el uso de **LibreOffice** y otros programas libres en el gobierno.
+
+* Brasil fue sede de los **Fórums Internacionales de Software Livre (FISL)**, encuentros que reunieron a miles de activistas, programadores y funcionarios públicos.
+
+---
+
+### **🇻🇪 Venezuela – Soberanía y ley de software libre**
+
+* En **2004**, el presidente **Hugo Chávez** firmó el **Decreto 3.390**, que ordenaba la migración de la administración pública al software libre.
+
+* Fue parte de un proyecto de soberanía tecnológica vinculado al “socialismo del siglo XXI”.
+
+* Se desarrollaron distribuciones locales de Linux como **Canaima**, usada en computadoras educativas.
+
+---
+
+### **🇦🇷 Argentina – Adopción más fragmentaria pero activa**
+
+* Aunque nunca hubo una política nacional integral, hubo importantes iniciativas en educación, municipios y algunas agencias del Estado.
+
+* La comunidad de software libre fue muy activa (ej. grupos como CaFeLUG, Solar, Gleducar).
+
+* Ejemplos:
+
+  * **Gleducar** (2002): colectivo que promueve el uso de software libre en la educación.
+
+  * Algunos municipios (como Rosario o Morón) migraron sistemas a software libre.
+
+  * El programa **Conectar Igualdad** distribuyó netbooks con sistemas basados en Linux (como Huayra GNU/Linux).
+
+---
+
+### **🇺🇾 Uruguay – Plan Ceibal y código abierto**
+
+* El **Plan Ceibal** (inspirado en OLPC, desde 2007\) distribuyó laptops con software libre a estudiantes de primaria.
+
+* Uruguay fue uno de los primeros países del mundo en dar una computadora a cada niño en edad escolar.
+
+* Usaron software como **Sugar**, GNU/Linux, y promovieron desarrollos locales.
+
+* En 2013 se aprobó la **Ley de Software Libre y Formatos Abiertos** en el Estado.
+
+---
+
+### **🇨🇱 Chile – Comunidad activa, menos respaldo estatal**
+
+* Chile tuvo una comunidad activa de software libre desde los años 90, pero sin políticas nacionales fuertes.
+
+* Se formaron grupos como **GNU Chile**, y algunas universidades públicas promovieron su uso.
+
+* Algunos ministerios y municipios (como la municipalidad de Peñalolén) hicieron migraciones parciales.
+
+---
+
+### **🌍 Otros ejemplos regionales**
+
+* **Perú:** en 2002 el Congreso presentó un proyecto de ley (impulsado por Edgar Villanueva) para exigir software libre en la administración pública. El debate fue emblemático y global (Microsoft respondió públicamente).
+
+* **Ecuador:** En 2008, bajo el gobierno de Rafael Correa, se promovió la migración estatal a software libre.
+
+* **Bolivia y Paraguay:** más tímidos en cuanto a políticas estatales, pero con comunidades activas.
+
+---
+
+## **🧠 Reflexión**
+
+La adopción del software libre en América del Sur fue un fenómeno que trascendió lo meramente tecnológico, involucrando dimensiones políticas, culturales y sociales. En países como Brasil, Argentina, Venezuela o Uruguay, esta adopción fue impulsada activamente desde el Estado, que promovió políticas públicas de apoyo, desarrollo de plataformas abiertas y capacitación, estableciendo alianzas con universidades y centros de investigación. Paralelamente, las comunidades de usuarios, desarrolladores y organizaciones de la sociedad civil jugaron un papel fundamental, creando redes de colaboración, compartiendo conocimiento y fomentando la formación de nuevas generaciones de profesionales en tecnologías libres.
+
+En otros países de la región, la expansión del software libre se dio principalmente de manera horizontal, a través de iniciativas ciudadanas y académicas. Docentes, activistas, programadores y tecnólogos comprometidos con la idea de una tecnología abierta, accesible y soberana impulsaron proyectos locales, generando comunidades que difundían el conocimiento, ofrecían talleres y desarrollaban soluciones adaptadas a contextos específicos. Estas prácticas no sólo promovieron la independencia tecnológica, sino que también contribuyeron a la construcción de una cultura digital crítica y participativa, donde la libertad de acceso, la colaboración y la apropiación social de la tecnología se convirtieron en valores centrales.
+
+### **1990s**
+
+* 💻 **Chile, Argentina, Brasil**: Surgen las primeras comunidades de usuarios de GNU/Linux y grupos de software libre.
+
+* 📚 Creación de LUGs (Linux User Groups) en universidades y foros técnicos.
+
+### **2000-2004**
+
+* 🇵🇪 2002: Proyecto de Ley en Perú sobre software libre en el Estado (Villanueva vs. Microsoft).
+
+*  2003: Gobierno de Lula promueve migración masiva a software libre en agencias estatales.
+
+* 2004: Decreto 3.390 en Venezuela obliga al Estado a migrar a software libre.
+
+* 2002: Nace Gleducar, proyecto educativo con software libre en Argentina.
+
+### **2005-2010**
+
+* 🇺🇾 2007: Nace el Plan Ceibal, con laptops y software libre en educación primaria.
+
+* 🇧🇷 Se institucionalizan políticas nacionales de migración (Serpro, Caixa, Receita Federal).
+
+* 🇻🇪 Desarrollo de Canaima GNU/Linux como sistema operativo nacional.
+
+* 🇦🇷 Municipios (Morón, Rosario) adoptan software libre en áreas de gobierno.
+
+* 🌎 Expansión de FISL (Foro Internacional de Software Libre) en Porto Alegre.
+
+### **2010-2015**
+
+* 🇺🇾 2013: Ley de Software Libre en el Estado uruguayo.
+
+* 🇦🇷 Se lanza Huayra GNU/Linux como sistema operativo educativo.
+
+* 🇪🇨 Ecuador promueve el software libre en la administración pública.
+
+* 🇻🇪 Canaima se instala en más de 2 millones de equipos.
+
+### **2015-presente**
+
+* 🌐 Comunidad continúa activa pero con menor impulso estatal.
+
+* 🤖 Algunos países exploran software libre para inteligencia artificial, big data y educación.
+
+* 👥 El movimiento se conecta con debates sobre soberanía digital y datos abiertos.
+
+---
+
+## **🌍 Teorías del conocimiento situado en América Latina**
+
+En América Latina, las teorías sobre el **conocimiento situado** han tenido un desarrollo propio y potente, articulado con tradiciones críticas como el **pensamiento decolonial**, el **feminismo latinoamericano**, la **epistemología del sur**, y los **saberes indígenas y populares**. Estas teorías no solo retoman la idea de que *todo conocimiento está situado* (como propuso Donna Haraway), sino que radicalizan esa idea al denunciar la colonialidad del saber y proponer alternativas epistémicas.
+
+---
+
+### **🌍 El feminismo latinoamericano**
+
+El feminismo latinoamericano ha desarrollado una teoría del conocimiento situado profundamente anclada en la experiencia y la corporalidad, en diálogo con Haraway pero desde una **experiencia colonial, racial y de clase específica**.
+
+#### **✍️ Autoras clave:**
+
+* **Rita Segato (Argentina)**
+
+  * Crítica del universalismo abstracto y defensa de saberes encarnados y relacionales.
+
+  * Ej.: *La guerra contra las mujeres* (2016).
+
+* **María Lugones (Argentina–EE. UU.)**
+
+  * Concepto de **“colonialidad de género”**, intersección entre raza, género y colonialismo.
+
+  * Ej.: *Hacia un feminismo descolonial* (2008).
+
+* **Lorena Cabnal (Guatemala)**
+
+  * Desarrolla el concepto de **“feminismo comunitario territorial”** desde los pueblos originarios.
+
+  * Epistemología situada desde el cuerpo-tierra.
+
+* **Karina Bidaseca (Argentina)**
+
+* Trabaja sobre epistemologías del sur, afrofeminismo y geopolítica del conocimiento.
+
+---
+
+### **🌍 Epistemologías del Sur y pensamiento decolonial**
+
+Aquí el conocimiento situado se articula como **resistencia a la colonialidad del saber**, y como defensa de los saberes subalternos, comunitarios y ancestrales.
+
+#### **✍️ Autores clave:**
+
+* **Boaventura de Sousa Santos (Portugal, con fuerte presencia en América Latina)**
+
+  * Propone la idea de una **“ecología de saberes”**, donde distintos saberes coexisten sin jerarquías.
+
+  * Ej.: *Epistemologías del Sur* (2010).
+
+* **Aníbal Quijano (Perú)**
+
+  * Teórico de la **colonialidad del poder/saber/ser**.
+
+  * Ej.: *Colonialidad del poder y clasificación social* (2000).
+
+* **Walter Mignolo (Argentina)**
+
+  * Propone el concepto de **“locus enunciativo”** y “pensamiento fronterizo”.
+
+  * Ej.: *La idea de América Latina* (2005).
+
+* **Catherine Walsh (Ecuador/EE. UU.)**
+
+  * Desarrolla la noción de **“conocimiento situado insurgente”** y **pedagogías decoloniales**.
+
+---
+
+### **🌱 Saberes indígenas, campesinos y afrodescendientes**
+
+Muchos pensadores y pensadoras desde movimientos sociales, territorios y pueblos originarios han producido formas de conocimiento situado que no siempre se inscriben en la academia.
+
+#### **✍️ Ejemplos:**
+
+* **Alicia Cawiya (Ecuador, pueblo Achuar)**: defensora del conocimiento ancestral como base política y ecológica.
+
+* **Silvia Rivera Cusicanqui (Bolivia)**: crítica decolonial del marxismo y la modernidad, con fuerte defensa del **pensamiento ch'ixi** (dualidad no reconciliada).
+
+  * Ej.: *Un mundo ch’ixi es posible* (2018).
+
+* **Frantz Fanon** (influencia desde el Caribe): si bien no latinoamericano, influyó en la conceptualización situada del conocimiento en contextos coloniales.
+
+---
+
+### **📌 Principales conceptos**
+
+* **Colonialidad del saber (Quijano):** Se refiere a la persistencia de estructuras de poder y dominación en la producción de conocimiento, que privilegian perspectivas occidentales y marginan saberes de comunidades colonizadas o subalternas.
+
+* **Locus de enunciación (Mignolo):** Concepto que indica el lugar desde el cual se produce conocimiento y se habla del mundo, reconociendo que la perspectiva está condicionada por la historia, la cultura y la posición social del sujeto.
+
+* **Pensamiento fronterizo:** Forma de pensar desde los márgenes o intersecciones culturales, resistiendo las categorías rígidas del conocimiento hegemónico y explorando nuevos modos de entender la realidad.
+
+* **Epistemología insurgente / comunitaria / popular:** Conjunto de enfoques que valoran los saberes colectivos y locales, cuestionan la autoridad del conocimiento dominante y buscan generar conocimiento desde prácticas sociales, políticas y culturales propias.
+
+* **Conocimiento encarnado y territorializado:** Saber que surge de la experiencia concreta de los cuerpos y de la relación íntima con un territorio, incluyendo dimensiones culturales, afectivas y ecológicas.
+
+* **Ecología de saberes (Santos):** Idea de que distintos tipos de conocimiento—científico, indígena, popular—pueden dialogar y coexistir, enriqueciendo la comprensión de problemas sociales y ambientales desde múltiples perspectivas.
+
+* **Saberes no hegemónicos / subalternos:** Conocimientos marginados o silenciados por la hegemonía cultural y científica, que provienen de grupos históricamente excluidos o minoritarios, y que ofrecen perspectivas alternativas sobre la realidad.

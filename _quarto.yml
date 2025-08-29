@@ -8,8 +8,8 @@ book:
   # cover-image: cover.jpg
   chapters:
     - index.qmd
+    - softwlibreyaccabierto.qmd
     - introduccion_mc.qmd
-    - espanol.qmd
     - english.qmd
     - references.qmd
 
