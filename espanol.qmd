@@ -173,7 +173,3 @@ Muchos pensadores y pensadoras desde movimientos sociales, territorios y pueblos
 
 La adopción del software libre en América del Sur fue un fenómeno tanto tecnológico como político y cultural. En algunos países, como Brasil, Venezuela o Uruguay, el Estado tuvo un rol central, mientras que en otros el impulso vino de la sociedad civil y las comunidades técnicas.  
 En paralelo, los debates sobre **epistemologías del sur** y **conocimiento situado** dialogan con la historia de la tecnología en la región, subrayando la necesidad de **soberanía tecnológica**, **inclusión digital** y **reapropiación crítica de las herramientas** para contextos locales.
-
-
-
-See @knuth84 for additional discussion of literate programming.

@@ -118,5 +118,15 @@
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>English</span>"
     ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References/Referencias",
+    "section": "",
+    "text": "Aquí ofrecemos una biblioteca de Zotero con bibliografía y proyectos dedicados a la minimal computing",
+    "crumbs": [
+      "References/Referencias"
+    ]
   }
 ]
