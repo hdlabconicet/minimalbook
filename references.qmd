@@ -1,4 +1,4 @@
-# References/Referencias {.unnumbered}
+# Biblio {.unnumbered}
 
 Aquí ofrecemos una <a href="https://www.zotero.org/groups/6048975/minimal_computing/library" target="_blank">biblioteca de Zotero</a> con bibliografía y proyectos dedicados a la minimal computing
 

@@ -24,14 +24,16 @@ book:
     - sobre_minimalcomputing.qmd
     - about_minimalcomputing.qmd
     - references.qmd
+    - proyecto.qmd
 
 bibliography: references.bib
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      #- cosmo
+      # - brand
+      simplex
   pdf:
     documentclass: scrreprt
 
