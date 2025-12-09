@@ -62,11 +62,21 @@
   {
     "objectID": "references.html",
     "href": "references.html",
-    "title": "References/Referencias",
+    "title": "Biblio",
     "section": "",
     "text": "Aquí ofrecemos una biblioteca de Zotero con bibliografía y proyectos dedicados a la minimal computing\nHere we offer a Zotero library with bibliography and projects dedicated to minimal computing.",
     "crumbs": [
-      "References/Referencias"
+      "Biblio"
+    ]
+  },
+  {
+    "objectID": "proyecto.html",
+    "href": "proyecto.html",
+    "title": "Como citar",
+    "section": "",
+    "text": "Este recurso fue desarrollado gracias al financiamiento otorgado por",
+    "crumbs": [
+      "Como citar"
     ]
   }
 ]
