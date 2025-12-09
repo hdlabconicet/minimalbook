@@ -1,3 +1,5 @@
 # References/Referencias {.unnumbered}
 
-Aquí ofrecemos una [biblioteca de Zotero](https://www.zotero.org/groups/6048975/minimal_computing/library) con bibliografía y proyectos dedicados a la minimal computing
+Aquí ofrecemos una <a href="https://www.zotero.org/groups/6048975/minimal_computing/library" target="_blank">biblioteca de Zotero</a> con bibliografía y proyectos dedicados a la minimal computing
+
+Here we offer a <a href="https://www.zotero.org/groups/6048975/minimal_computing/library" target="_blank">Zotero library</a> with bibliography and projects dedicated to minimal computing.

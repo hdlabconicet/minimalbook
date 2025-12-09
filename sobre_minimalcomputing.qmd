@@ -1,4 +1,4 @@
-# Sobre minimal computing
+# Sobre Minimal Computing {.unnumbered}
 
 ## Definición inicial y orígenes
 
@@ -36,9 +36,7 @@ Un ejemplo de esta tendencia puede encontrarse en la edición digital enriquecid
 
 ## Colecciones con *minimal computing*
 
-En los últimos años también fue cobrando relevancia el uso de sitios estáticos para la creación de colecciones digitales. A diferencia de las bases de datos dinámicas, las colecciones generadas con herramientas como Jekyll, Hugo o Wax ofrecen ventajas de sostenibilidad, bajo consumo de recursos y facilidad de preservación a largo plazo, garantizando además independencia respecto de plataformas propietarias. Si bien 
-
-sostenibilidad y accesibilidad en proyectos que trabajan con patrimonio cultural, como el archivo crítico digital de *La dama boba* y la colección de ediciones diplomáticas de la Colección Foulché-Delbosc:
+En los últimos años también fue cobrando relevancia el uso de sitios estáticos para la creación de colecciones digitales. A diferencia de las bases de datos dinámicas, las colecciones generadas con herramientas como Jekyll, Hugo o Wax ofrecen ventajas de sostenibilidad, bajo consumo de recursos y facilidad de preservación a largo plazo, garantizando además independencia respecto de plataformas propietarias. Si bien estos enfoques pueden requerir una curva de aprendizaje inicial y cierta reestructuración de los flujos de trabajo tradicionales, su adopción ha demostrado mejorar notablemente la sostenibilidad y la accesibilidad en proyectos que trabajan con patrimonio cultural, como el archivo crítico digital de *La dama boba* y la colección de ediciones diplomáticas de la Colección Foulché-Delbosc:
 
 [![](/assets/mc-image5.jpg)](https://celioht.github.io/damaboba/)
 

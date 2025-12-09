@@ -1,9 +1,9 @@
-# Project/Proyecto {.unnumbered}
-How can a Digital Humanities (DH) project be ethical, inclusive and (technologically and ecologically) sustainable from the start? The open software and hardware movement has been seeking to expand global access to digital tools by reducing cost, logistics, and knowledge barriers. Their principles, extended beyond computing done under constraints, could form the  foundation of a global digitally-engaged humanities commons. Likewise, the ‘minimal computing’ movement has developed principles to facilitate digitally engaged projects that use minimal infrastructure to run complex humanities projects. 
+#  Intro {.unnumbered}
 
-Could their shared principles and technologies empower students and scholars to work more ethically  and sustainably? 
-
-![Logo del HD LAB-CONICET](/cover.jpg)
+La minimal computing es un campo en evolución que nos invita a pensar cómo crear, preservar y compartir producción digital utilizando menos recursos, mayor conciencia y prácticas más sostenibles. En lugar de asumir que las infraestructuras más grandes o las herramientas más complejas generan automáticamente mejores resultados, la minimal computing propone replantear nuestra relación con la tecnología: ¿Qué necesitamos realmente para hacer nuestro trabajo? ¿Qué podemos construir o mantener desde nuestros propios contextos? ¿Qué posibilidades se abren cuando reducimos dependencias técnicas, adoptamos estándares abiertos y diseñamos sistemas transparentes, resilientes y accesibles?
+Este sitio funciona como un punto de entrada para investigadores, docentes, estudiantes y personas interesadas en explorar estas preguntas.
 
 
+Minimal computing is an evolving field that asks how we might create, preserve, and share digital scholarship using fewer resources, greater care, and more sustainable practices. Rather than assuming that bigger infrastructures or more complex tools automatically lead to better outcomes, minimal computing invites us to rethink our relationship with technology: What do we really need to do our work? What can we build or maintain within our local contexts? What becomes possible when we reduce technical dependencies, embrace open standards, and design systems that are transparent, resilient, and accessible? This site serves as an entry point for researchers, educators, students, and practitioners interested in exploring these questions.
 
+![Quipu](/cover.jpg)

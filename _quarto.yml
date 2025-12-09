@@ -2,15 +2,26 @@ project:
   type: book
 
 book:
-  title: "Sustainable and Ethical Technologies for Digitally Engaged Research in the Humanities: A North-South Collaborative Lab"
-  author: "HDLab CONICET"
+  title: "Minimal Computing 101"
+  author: 
+    - name: Gimena del Rio Riande
+      orcid: 0000-0002-8997-5415
+  
+    - name: Gabriel Alejandro Calarco
+      orcid: 0000-0002-7841-6538
+
+    - name: Joanna Crow
+    
+
+    - name: Roy Youdale 
+      orcid: 0000-0001-5819-4774
+
   date: "8/8/2025"
   # cover-image: cover.jpg
   chapters:
     - index.qmd
-    - softwlibreyaccabierto.qmd
-    - introduccion_mc.qmd
-    - english.qmd
+    - sobre_minimalcomputing.qmd
+    - about_minimalcomputing.qmd
     - references.qmd
 
 bibliography: references.bib
