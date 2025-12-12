@@ -1,0 +1,103 @@
+# Minimal Computing Sofware {.unnumbered}
+<br/>
+
+## Generadores de sitios estáticos
+
+A continuación, listamos algunos generadores de sitios estáticos, acompañados por plantillas utilizadas en proyectos de humanidades digitales o edición digital y minimal computing.
+
+### [Jekyll](https://jekyllrb.com/) 
+
+**Plantillas para edición digital que utilizan Jekyll:** 
+
+* **[Ed](https://minicomp.github.io/ed/)**
+
+* **[Wax](https://minicomp.github.io/wax/)**
+
+* **[Jekyll Scholar](https://github.com/inukshuk/jekyll-scholar)**
+
+* **[Collection Builder](https://collectionbuilder.github.io/)**
+
+
+### [Eleventy (11ty)](https://www.11ty.dev/) 
+
+**Plantillas para edición digital que utilizan Eleventy:** 
+
+* **[Quire (Getty)](https://quire.getty.edu/)**
+
+* **[TEI Publisher-eleventy](https://github.com/eeditiones/tei-publisher-eleventy)**
+
+
+### [Hugo](https://gohugo.io/)  
+
+**Plantillas para edición digital que utilizan Hugo:**
+
+* **[Edition crafter](https://editioncrafter.org/)**
+
+
+### [Svelte](https://svelte.dev/)
+
+**Plantillas para edición digital que utilizan Svelte:**
+
+* **[Serie Mini](https://github.com/srsergiorodriguez/serie-mini)**  
+* **[Fair Copy](https://github.com/performant-software/faircopy)** 
+
+**Librerías para publicar anotaciones que usan Svelte:**
+
+* **[Kōdōn](https://github.com/AjaxMultiCommentary/kodon)**
+
+
+### [Gatsby](https://www.gatsbyjs.com/)
+
+**[CETEIcean](https://www.gatsbyjs.com/plugins/gatsby-transformer-ceteicean/)** puede integrarse con Gatsby para crear ediciones digitales.
+
+<br/>
+
+## Static Site Generators
+
+List of static site generators with templates used in digital humanities or digital edition projects and minimal computing.
+
+
+### [Jekyll](https://jekyllrb.com/) 
+
+**Templates for digital editions that use Jekyll:** 
+
+* **[Ed](https://minicomp.github.io/ed/)**
+
+* **[Wax](https://minicomp.github.io/wax/)**
+
+* **[Jekyll Scholar](https://github.com/inukshuk/jekyll-scholar)**
+
+* **[Collection Builder](https://collectionbuilder.github.io/)**
+
+
+### [Eleventy (11ty)](https://www.11ty.dev/) 
+
+**Templates for digital editions that use Eleventy:** 
+
+* **[Quire (Getty)](https://quire.getty.edu/)**
+
+* **[TEI Publisher-eleventy](https://github.com/eeditiones/tei-publisher-eleventy)**
+
+
+### [Hugo](https://gohugo.io/)  
+
+**Templates for digital editions that use Hugo:**
+
+* **[Edition crafter](https://editioncrafter.org/)**
+
+
+### [Svelte](https://svelte.dev/)
+
+**Templates for digital editions that use Svelte:**
+
+* **[Serie Mini](https://github.com/srsergiorodriguez/serie-mini)**  
+* **[Fair Copy](https://github.com/performant-software/faircopy)** 
+
+**Libraries for publishing annotations that use Svelte:**
+
+* **[Kōdōn](https://github.com/AjaxMultiCommentary/kodon)**
+
+
+### [Gatsby](https://www.gatsbyjs.com/)
+
+**[CETEIcean](https://www.gatsbyjs.com/plugins/gatsby-transformer-ceteicean/)** integrates Gatsby to create digital editions.

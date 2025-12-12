@@ -13,9 +13,12 @@ book:
     - name: Joanna Crow
       orcid: 0000-0003-2588-0115
     
-
     - name: Roy Youdale 
       orcid: 0000-0001-5819-4774
+
+    - name: Patience Schell  
+      orcid: 0000-0002-4005-6573
+      
 
   date: "8/8/2025"
   # cover-image: cover.jpg
@@ -23,6 +26,7 @@ book:
     - index.qmd
     - sobre_minimalcomputing.qmd
     - about_minimalcomputing.qmd
+    - mc-software.qmd
     - references.qmd
     - proyecto.qmd
 

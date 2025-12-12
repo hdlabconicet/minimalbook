@@ -6,4 +6,6 @@ Este sitio funciona como un punto de entrada para investigadores, docentes, estu
 
 Minimal computing is an evolving field that asks how we might create, preserve, and share digital scholarship using fewer resources, greater care, and more sustainable practices. Rather than assuming that bigger infrastructures or more complex tools automatically lead to better outcomes, minimal computing invites us to rethink our relationship with technology: What do we really need to do our work? What can we build or maintain within our local contexts? What becomes possible when we reduce technical dependencies, embrace open standards, and design systems that are transparent, resilient, and accessible? This site serves as an entry point for researchers, educators, students, and practitioners interested in exploring these questions.
 
-![Quipu](/cover.jpg)
+![](/cover.jpg)
+
+Rio Riande, G. M. del; Calarco, G.; Crow, J.; Youdale, R. y Schell, P. (2025). *Minimal Computing 101*. [https://hdlab.space/minimalbook](https://hdlab.space/minimalbook).
