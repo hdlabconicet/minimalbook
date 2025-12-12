@@ -104,27 +104,27 @@
     "href": "mc-software.html",
     "title": "Minimal Computing Sofware",
     "section": "",
-    "text": "Recursos",
+    "text": "Generadores de sitios estáticos\nA continuación, listamos algunos generadores de sitios estáticos y sus características, acompañados por plantillas utilizadas en proyectos de humanidades digitales o edición digital y minimal computing.",
     "crumbs": [
       "Minimal Computing Sofware"
     ]
   },
   {
-    "objectID": "mc-software.html#recursos",
-    "href": "mc-software.html#recursos",
+    "objectID": "mc-software.html#generadores-de-sitios-estáticos",
+    "href": "mc-software.html#generadores-de-sitios-estáticos",
     "title": "Minimal Computing Sofware",
     "section": "",
-    "text": "Generadores de sitios estáticos\nA continuación, listamos algunos generadores de sitios estáticos y sus características, acompañados por plantillas utilizadas en proyectos de humanidades digitales o edición digital y minimal computing.\n\n\nJekyll\nPlantillas para edición digital que utilizan Jekyll:\n\nEd\nWax\nJekyll Scholar\nCollection Builder\n\n\n\n\nEleventy (11ty)\nPlantillas para edición digital que utilizan Eleventy:\n\nQuire (Getty)\nTEI Publisher-eleventy\n\n\n\n\nHugo\nPlantillas para edición digital que utilizan Hugo:\n\nEdition crafter\n\n\n\n\nSvelte\nPlantillas para edición digital que utilizan Svelte:\n\nSerie Mini\n\nFair Copy\n\nLibrerías para publicar anotaciones que usan Svelte:\n\nKōdōn\n\n\n\n\nGatsby\nCETEIcean puede integrarse con Gatsby para crear ediciones digitales.",
+    "text": "Jekyll\nPlantillas para edición digital que utilizan Jekyll:\n\nEd\nWax\nJekyll Scholar\nCollection Builder\n\n\n\n\nEleventy (11ty)\nPlantillas para edición digital que utilizan Eleventy:\n\nQuire (Getty)\nTEI Publisher-eleventy\n\n\n\n\nHugo\nPlantillas para edición digital que utilizan Hugo:\n\nEdition crafter\n\n\n\n\nSvelte\nPlantillas para edición digital que utilizan Svelte:\n\nSerie Mini\n\nFair Copy\n\nLibrerías para publicar anotaciones que usan Svelte:\n\nKōdōn\n\n\n\n\nGatsby\nCETEIcean puede integrarse con Gatsby para crear ediciones digitales.",
     "crumbs": [
       "Minimal Computing Sofware"
     ]
   },
   {
-    "objectID": "mc-software.html#rources",
-    "href": "mc-software.html#rources",
+    "objectID": "mc-software.html#static-site-generators",
+    "href": "mc-software.html#static-site-generators",
     "title": "Minimal Computing Sofware",
-    "section": "Rources",
-    "text": "Rources\n\nStatic Site Generators\nList of static site generators with templates used in digital humanities or digital edition projects and minimal computing.\n\n\nJekyll\nTemplates for digital editions that use Jekyll:\n\nEd\nWax\nJekyll Scholar\nCollection Builder\n\n\n\n\nEleventy (11ty)\nTemplates for digital editions that use Eleventy:\n\nQuire (Getty)\nTEI Publisher-eleventy\n\n\n\n\nHugo\nTemplates for digital editions that use Hugo:\n\nEdition crafter\n\n\n\n\nSvelte\nTemplates for digital editions that use Svelte:\n\nSerie Mini\n\nFair Copy\n\nLibraries for publishing annotations that use Svelte:\n\nKōdōn\n\n\n\n\nGatsby\nCETEIcean integrates Gatsby to create digital editions.",
+    "section": "Static Site Generators",
+    "text": "Static Site Generators\nList of static site generators with templates used in digital humanities or digital edition projects and minimal computing.\n\n\nJekyll\nTemplates for digital editions that use Jekyll:\n\nEd\nWax\nJekyll Scholar\nCollection Builder\n\n\n\n\nEleventy (11ty)\nTemplates for digital editions that use Eleventy:\n\nQuire (Getty)\nTEI Publisher-eleventy\n\n\n\n\nHugo\nTemplates for digital editions that use Hugo:\n\nEdition crafter\n\n\n\n\nSvelte\nTemplates for digital editions that use Svelte:\n\nSerie Mini\n\nFair Copy\n\nLibraries for publishing annotations that use Svelte:\n\nKōdōn\n\n\n\n\nGatsby\nCETEIcean integrates Gatsby to create digital editions.",
     "crumbs": [
       "Minimal Computing Sofware"
     ]
