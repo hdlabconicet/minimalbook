@@ -60,26 +60,6 @@
     ]
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "Biblio",
-    "section": "",
-    "text": "Aquí ofrecemos una biblioteca de Zotero con bibliografía y proyectos dedicados a la minimal computing\nHere we offer a Zotero library with bibliography and projects dedicated to minimal computing.",
-    "crumbs": [
-      "Biblio"
-    ]
-  },
-  {
-    "objectID": "proyecto.html",
-    "href": "proyecto.html",
-    "title": "Como citar",
-    "section": "",
-    "text": "Este recurso fue desarrollado gracias al financiamiento otorgado por",
-    "crumbs": [
-      "Como citar"
-    ]
-  },
-  {
     "objectID": "about_minimalcomputing.html#introduction-and-definitions",
     "href": "about_minimalcomputing.html#introduction-and-definitions",
     "title": "About Minimal Computing",
@@ -117,6 +97,26 @@
     "text": "Reflections\nAs we move towards the second quarter of the twenty-first century, it must be recognised that the minimal computing community is still very small and is fighting against the almost wholesale pursuit of ever more powerful and resource-hungry technology in the form of Artificial Intelligence and supercomputing.\nAn overview of trends in computing in the UK shows quite clearly that the government, the big tech companies and many of the leading universities are united in their attempts to promote AI, including supercomputing, in all its forms as “the future”. For example, the government’s most recent Policy Paper on computing in the UK, UK Compute Roadmap, published in July 2025, states in its Executive summary:\nThe government has committed up to £2 billion between now and 2030 to build a modern public compute ecosystem, building on the delivery of 2 new AI supercomputers that form the first phase of the AI Research Resource. We have already started the process to identify and deliver AI Growth Zones across the UK, building on the £44 billion of private sector investment in AI Data Centres over the last 12 months. We are also addressing the energy needs of AI through the AI Energy Council and committing to a new generation of advanced nuclear power projects.\nhttps://www.gov.uk/government/publications/uk-compute-roadmap/uk-compute-roadmap\nThe major internet browsers now use AI to head their search results and encourage users to take advantage of their AI chatbots such as Microsoft’s Copilot and Google’s Gemini, and ChatGPT has seen phenomenal growth in user numbers since its inception in November 2022, now seeing 200 million regular users (https://www.searchenginejournal.com/history-of-chatgpt-timeline/488370/#single-images-1).\nAny discussion of minimal computing must be seen in the context of the undeniable dominance of the Anglophone world – particularly the US and the UK – in the fields of digital scholarship and programming. Needless to say, in the Global North there is a greater wealth of resources for computing-related projects in terms of financing, technical expertise and the sheer quantity of computing hardware available, so that the decision to adopt a minimal approach to a project is made as a matter of choice, whereas in the South such a decision is often made out of necessity and represents an imaginative and principled response to a lack of resources. For instance, while there are plentiful references to the DH and some 10 universities in the UK with dedicated units or departments, there is little or no mention of minimal computing in their public face, and in fact these universities go out of their way to trumpet the new tools and possibilities offered by DH technology, at least some of which run directly counter to the principles of minimal computing, involving as they often do expensive and resource-hungry hardware and software.\nMinimal computing must therefore be seen as almost a niche community within the DH community. In practical terms the major foci of interest and publication/dissemination of minimal computing projects and principles in the UK are confined to a handful of universities such as Edinburgh and London and the DHCC.\nThere are, however, some signs that minimal computing is gaining some traction and may even become more mainstream within a few years. These include the increasing use of open-source software; the championing of minimal computing and its environmental credentials within the powerful climate justice movement; the importance of sustainability and preservation of DH projects (https://endings.uvic.ca/index.html); the fact that as university finances are squeezed ever more the attractiveness of minimal computing as an approach to computing projects in the humanities, could well increase.\nLastly, it is easy to characterise minimal computing as a one-size-fits-all approach, espousing a universally accepted set of principles with which few would disagree, but this would be a mistake. In his essay in the DHQ 2022 special issue on minimal computing, ‘Ensuring Minimal Computing Serves Maximal Connection’ (https://dhq.digitalhumanities.org/vol/16/2/000596/000596.html), Grant Wythoff argues that ‘while the tools currently associated with minimal computing are more sustainable, they can be less equitable in terms of participation (considering the steep learning curve of starting from scratch) and that ‘Values guiding the theory and practice of minimal computing include access, participation, sustainability, stewardship, and equity. When placed alongside each other — as we’ve seen — these values often produce rich contradictions that can be difficult to appreciate if particular tools elevate some values at the expense of others.’ In other words, the question of the values and principles underlying any minimal computing project and the choices which flow from them need careful and honest consideration.",
     "crumbs": [
       "About Minimal Computing"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Biblio",
+    "section": "",
+    "text": "Aquí ofrecemos una biblioteca de Zotero con bibliografía y proyectos dedicados a la minimal computing\nHere we offer a Zotero library with bibliography and projects dedicated to minimal computing.",
+    "crumbs": [
+      "Biblio"
+    ]
+  },
+  {
+    "objectID": "proyecto.html",
+    "href": "proyecto.html",
+    "title": "Como citar",
+    "section": "",
+    "text": "Este recurso fue desarrollado gracias al financiamiento otorgado por",
+    "crumbs": [
+      "Como citar"
     ]
   }
 ]
