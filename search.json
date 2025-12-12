@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Minimal Computing 101",
     "section": "",
-    "text": "Intro\nLa minimal computing es un campo en evolución que nos invita a pensar cómo crear, preservar y compartir producción digital utilizando menos recursos, mayor conciencia y prácticas más sostenibles. En lugar de asumir que las infraestructuras más grandes o las herramientas más complejas generan automáticamente mejores resultados, la minimal computing propone replantear nuestra relación con la tecnología: ¿Qué necesitamos realmente para hacer nuestro trabajo? ¿Qué podemos construir o mantener desde nuestros propios contextos? ¿Qué posibilidades se abren cuando reducimos dependencias técnicas, adoptamos estándares abiertos y diseñamos sistemas transparentes, resilientes y accesibles? Este sitio funciona como un punto de entrada para investigadores, docentes, estudiantes y personas interesadas en explorar estas preguntas.\nMinimal computing is an evolving field that asks how we might create, preserve, and share digital scholarship using fewer resources, greater care, and more sustainable practices. Rather than assuming that bigger infrastructures or more complex tools automatically lead to better outcomes, minimal computing invites us to rethink our relationship with technology: What do we really need to do our work? What can we build or maintain within our local contexts? What becomes possible when we reduce technical dependencies, embrace open standards, and design systems that are transparent, resilient, and accessible? This site serves as an entry point for researchers, educators, students, and practitioners interested in exploring these questions.\n\n\n\nQuipu",
+    "text": "Intro\nLa minimal computing es un campo en evolución que nos invita a pensar cómo crear, preservar y compartir producción digital utilizando menos recursos, mayor conciencia y prácticas más sostenibles. En lugar de asumir que las infraestructuras más grandes o las herramientas más complejas generan automáticamente mejores resultados, la minimal computing propone replantear nuestra relación con la tecnología: ¿Qué necesitamos realmente para hacer nuestro trabajo? ¿Qué podemos construir o mantener desde nuestros propios contextos? ¿Qué posibilidades se abren cuando reducimos dependencias técnicas, adoptamos estándares abiertos y diseñamos sistemas transparentes, resilientes y accesibles? Este sitio funciona como un punto de entrada para investigadores, docentes, estudiantes y personas interesadas en explorar estas preguntas.\nMinimal computing is an evolving field that asks how we might create, preserve, and share digital scholarship using fewer resources, greater care, and more sustainable practices. Rather than assuming that bigger infrastructures or more complex tools automatically lead to better outcomes, minimal computing invites us to rethink our relationship with technology: What do we really need to do our work? What can we build or maintain within our local contexts? What becomes possible when we reduce technical dependencies, embrace open standards, and design systems that are transparent, resilient, and accessible? This site serves as an entry point for researchers, educators, students, and practitioners interested in exploring these questions.\n\nRio Riande, G. M. del; Calarco, G.; Crow, J.; Youdale, R. y Schell, P. (2025). Minimal Computing 101. https://hdlab.space/minimalbook.",
     "crumbs": [
       "Intro"
     ]
@@ -142,11 +142,11 @@
   {
     "objectID": "proyecto.html",
     "href": "proyecto.html",
-    "title": "Como citar",
+    "title": "SLAS",
     "section": "",
-    "text": "Este recurso fue desarrollado gracias al financiamiento otorgado por",
+    "text": "Este sitio es parte del proyecto Sustainable and Ethical Technologies for Digitally Engaged Research in the Humanities: A North-South Collaborative Lab (Part I y II) financiado por la Society for Latin American Studies, dirigido por las Dras. Joanna Crow (University of Bristol) y Patience Schell (University of Aberdeen) con la participación de la Dra. Gimena del Rio Riande (HD LAB/IIBICRIT, CONICET) y los miembros del HD LAB. \nThis site is part of the project Sustainable and Ethical Technologies for Digitally Engaged Research in the Humanities: A North–South Collaborative Lab (Parts I and II), funded by the Society for Latin American Studies. The project is led by Dr Joanna Crow (University of Bristol) and Dr Patience Schell (University of Aberdeen), with the participation of Dr Gimena del Rio Riande (HD LAB / IIBICRIT, CONICET) and members of the HD LAB.",
     "crumbs": [
-      "Como citar"
+      "SLAS"
     ]
   }
 ]
