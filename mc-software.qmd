@@ -50,6 +50,8 @@ A continuación, listamos algunos generadores de sitios estáticos, acompañados
 
 **[CETEIcean](https://www.gatsbyjs.com/plugins/gatsby-transformer-ceteicean/)** puede integrarse con Gatsby para crear ediciones digitales.
 
+### Generadores y plantillas para publicar archivos de audio y audiovisuales
+**[AVannoate](https://avannotate.github.io/)
 <br/>
 
 ## Static Site Generators
@@ -101,3 +103,7 @@ List of static site generators with templates used in digital humanities or digi
 ### [Gatsby](https://www.gatsbyjs.com/)
 
 **[CETEIcean](https://www.gatsbyjs.com/plugins/gatsby-transformer-ceteicean/)** integrates Gatsby to create digital editions.
+
+### Generators and ftemplates for publishing audio and video resources
+
+**[AVannoate](https://avannotate.github.io/)
