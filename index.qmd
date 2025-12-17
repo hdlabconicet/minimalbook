@@ -12,3 +12,5 @@ Rio Riande, G. del; Calarco, G.; Crow, J.; Youdale, R. y Schell, P. (2025). *Min
 
 [ark](https://n2t.net/ark:/69774/mc2025)
 
+<a href="https://doi.org/10.5281/zenodo.17968026"><img src="https://zenodo.org/badge/1034684852.svg" alt="DOI"></a>
+
