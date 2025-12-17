@@ -10,7 +10,7 @@ Minimal computing constitutes an approach that interrogates about how we create,
 
 Rio Riande, G. del; Calarco, G.; Crow, J.; Youdale, R. y Schell, P. (2025). *Minimal Computing 101*. [https://hdlab.space/minimalbook](https://hdlab.space/minimalbook).
 
-[ark](https://n2t.net/ark:/69774/mc2025)
+ark: [https://n2t.net/ark:/69774/mc2025](https://n2t.net/ark:/69774/mc2025)
 
 <a href="https://doi.org/10.5281/zenodo.17968026"><img src="https://zenodo.org/badge/1034684852.svg" alt="DOI"></a>
 
