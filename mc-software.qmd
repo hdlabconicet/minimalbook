@@ -1,4 +1,4 @@
-# Minimal Computing Sofware {.unnumbered}
+# Minimal Computing Software {.unnumbered}
 <br/>
 
 ## Generadores de sitios estáticos
